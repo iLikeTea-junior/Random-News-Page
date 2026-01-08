@@ -1,5 +1,5 @@
 # 🌎 Random News Around the World
-A static HTML page about random 'made up' news.
+A static HTML page about random 'made up' news. \n
 This was just a small project where I used my basic knowledge of HTML and CSS, and then made a static HTML page.
 
 
