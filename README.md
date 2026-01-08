@@ -23,7 +23,7 @@ The website does not look well on smaller screen sizes, like a phone.
 Adding another responsive breakpoint for a mobile was missing.
 
 **2nd** -> 
-Some elements lacked proper spacing, which also affects readability
+Some elements lacked proper spacing, which also affects readability.
 
 **3rd** ->
 Visuals could have been improved by limiting the color choices. The whole page does not stick to a 'one color' theme.
